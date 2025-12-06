@@ -57,6 +57,33 @@
 Visit our <a href="https://ldkong.com/LaserMix" target='_blank'>project page</a> to explore more details. :red_car:
 
 
+### :books: Citation
+
+If you find this work helpful, please kindly consider citing our papers:
+
+```bibtex
+@inproceedings{kong2023lasermix,
+    title     = {{LaserMix} for Semi-Supervised {LiDAR} Semantic Segmentation},
+    author    = {Kong, Lingdong and Ren, Jiawei and Pan, Liang and Liu, Ziwei},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    pages     = {21705-21715},
+    year      = {2023}
+}
+```
+```bibtex
+@article{kong2025multi,
+    title     = {Multi-Modal Data-Efficient {3D} Scene Understanding for Autonomous Driving},
+    author    = {Kong, Lingdong and Xu, Xiang and Ren, Jiawei and others},
+    journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+    volume    = {47},
+    number    = {5},
+    pages     = {3748-3765},
+    year      = {2025}
+}
+```
+
+
+
 ## Updates
 
 - \[2024.05\] - Our improved framework, [LaserMix++](https://arxiv.org/abs/2405.05258) :rocket:, is avaliable on arXiv.
@@ -228,23 +255,9 @@ For more experimental results and pretrained weights, please refer to [RESULT.md
 - [x] Add video demos :movie_camera:
 - [x] Add installation details.
 - [x] Add data preparation details.
-- [ ] Add evaluation details.
-- [ ] Add training details.
+- [x] Add evaluation details.
+- [x] Add training details.
 
-
-## Citation
-
-If you find this work helpful, please kindly consider citing our paper:
-
-```bibtex
-@inproceedings{kong2023lasermix,
-  title = {LaserMix for Semi-Supervised LiDAR Semantic Segmentation},
-  author = {Kong, Lingdong and Ren, Jiawei and Pan, Liang and Liu, Ziwei},
-  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages = {21705--21715},
-  year = {2023},
-}
-```
 
 
 ## License
